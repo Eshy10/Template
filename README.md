@@ -1,2 +1,28 @@
-# Template
-Template repo with stickler config.
+# Creators
+
+
+# What is this
+
+
+# Purpose
+
+
+# Tools used
+
+
+# Live demo
+
+
+# Getting started
+
+
+# Credit
+
+
+# Support
+
+
+
+
+
+
